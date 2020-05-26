@@ -10,15 +10,15 @@ menu:
   - name: Featured Projects
     submenu:
       - name: MicroBam
-        link: /ShootYourFriendsWebsite/projects/microbam
+        link: /projects/microbam
       - name: OurLegacy
-        link: /ShootYourFriendsWebsite/projects/ourlegacy
+        link: /projects/ourlegacy
   - name: Posts
-    link: /ShootYourFriendsWebsite/
+    link: /
   - name: Tags
-    link: /ShootYourFriendsWebsite/tags
+    link: /tags
   - name: About
-    link: /ShootYourFriendsWebsite/about
+    link: /about
   - name: Follow me
     submenu:
       - name: GitHub
