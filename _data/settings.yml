@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'apham'
+  disqus_shortname: 'ZMackay'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
@@ -14,7 +14,7 @@ menu:
       - name: OurLegacy
         link: /ShootYourFriendsWebsite/projects/ourlegacy
   - name: Posts
-    link: /ShootYourFriendsWebsite
+    link: /ShootYourFriendsWebsite/posts
   - name: Tags
     link: /ShootYourFriendsWebsite/tags
   - name: About

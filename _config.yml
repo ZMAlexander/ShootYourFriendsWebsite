@@ -36,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: http://www.linkedin.com/in/alainpham
+author: https://www.linkedin.com/in/zach-mackay-b78b89170/
 
 host: 0.0.0.0
 
