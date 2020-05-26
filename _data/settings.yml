@@ -10,24 +10,24 @@ menu:
   - name: Featured Projects
     submenu:
       - name: MicroBam
-        link: /projects/microbam
+        link: /ShootYourFriendsWebsite/projects/microbam
       - name: OurLegacy
-        link: /projects/ourlegacy
+        link: /ShootYourFriendsWebsite/projects/ourlegacy
   - name: Posts
-    link: /
+    link: /ShootYourFriendsWebsite/
   - name: Tags
-    link: /tags
+    link: /ShootYourFriendsWebsite/tags
   - name: About
-    link: /about
+    link: /ShootYourFriendsWebsite/about
   - name: Follow me
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
+        link: http://github.com/zmalexander
       - name: LinkedIn
         icon: linkedin-square
         link: http://www.linkedin.com/in/alainpham
       - name: Twitter
         icon: twitter
-        link: https://twitter.com/koint
+        link: https://google.com
     
