@@ -14,7 +14,7 @@ menu:
       - name: OurLegacy
         link: /ShootYourFriendsWebsite/projects/ourlegacy
   - name: Posts
-    link: /ShootYourFriendsWebsite/posts
+    link: /ShootYourFriendsWebsite/
   - name: Tags
     link: /ShootYourFriendsWebsite/tags
   - name: About
