@@ -9,46 +9,30 @@ tags: [tag1, randomtag, tag3]
 github: "https://www.google.com"
 ---
 
-<p>
-    This is basically a test to see how posting works for this blog template thing.
-</p>
+<p>This shows up in the main blog page.</p>
 <!--more-->
-
-<h2>Look at me, I'm a title, also I'm numbered.</h2>
-
-<p>This is a paragraph post</p>
-
-{% highlight shell %}
-
-This puts things in a software code box.
-Replace 'shell' with 'java' or other keywords.
-
-{% endhighlight %}
-
-<pre>
-    Same as code box as above, but language agnostic.
-</pre>
-
 <p>
-    Paragraphs can be set up like this if it's easier.
+    This only shows in the post after hitting 'Read More'.
 </p>
 
-<h2>Second header tag gets #2</h2>
+<h2>Numbered header.</h2>
 
-<h3>Sub header, this appends '2.1' because the above header was appeaded '2'</h3>
+<p><a href="https://google.com" target="_blank">Clickable Hyperlink</a></p>
 
-<p><strong>Strong makes things bold.<a href="https://google.com" target="_blank">Clickable Hyperlink</a></strong></p>
+<h2>Second header gets #2</h2>
+
+<h3>Sub header, this appends '2.1' because the above header was appended '2'</h3>
 
 <h3>
     Second sub header, makes this number '2.2'
 </h3>
 
-<br>Line break
+<p><strong>Strong makes things bold.</strong></p>
 
-<p><strong>Create Lists</strong></p>
+<br>Line break before and after.<br>
+
+<p><strong>Lists</strong></p>
 <ul>
-    <li>Unnumbered</li>
-    <li>Unnumbered</li>
     <li>Unnumbered</li>
     <li>Unnumbered</li>
 </ul>
@@ -56,6 +40,13 @@ Replace 'shell' with 'java' or other keywords.
 <ol>
     <li>Numbered</li>
     <li>Numbered</li>
-    <li>Numbered</li>
-    <li>Numbered</li>
 </ol>
+
+{% highlight shell %}
+This adds a code box.
+Replace 'shell' with 'java' or other keywords.
+{% endhighlight %}
+
+<pre>
+    Same as code box as above, but it's just a box.
+</pre>
