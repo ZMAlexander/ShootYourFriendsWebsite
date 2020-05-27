@@ -10,9 +10,13 @@ github: "https://www.google.com"
 ---
 
 <p>This shows up in the main blog page.</p>
+
 <!--more-->
+
 <p>
     This only shows in the post after hitting 'Read More'.
+    Make a folder named the same as this post without the date in -> assets/images/posts/
+    Each post requires an image named 'top.jpg' and put in the above folder.
 </p>
 
 <h2>Numbered header.</h2>
@@ -44,15 +48,16 @@ github: "https://www.google.com"
 
 {% highlight shell %}
 This adds a code box.
-Replace 'shell' with 'java', 'xml', or other keywords.
+Replace 'shell' with 'java', 'xml', 'yml', or other keywords.
 {% endhighlight %}
 
 <pre>
     Same as code box as above, but it's just a box.
 </pre>
 
-<a href="/assets/images/{{page.id}}/scaledown.png">
-    <img class="center-block img-responsive" src="/assets/images/{{page.id}}/scaledown.png" alt="scale down a network of brokers"/>
+<p>You can click this picture.</p>
+<a href="/assets/images/{{page.id}}/top.jpg">
+    <img class="center-block img-responsive" src="/assets/images/{{page.id}}/top.jpg" alt="scale down a network of brokers"/>
 </a>
 
 <p>
