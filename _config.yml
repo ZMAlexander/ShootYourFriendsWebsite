@@ -17,7 +17,7 @@ title: Shoot Your Friends Blog
 name: Shoot Your Friends Blog
 description: 
   This is our game blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ShootYourFriendsWebsite" # the subpath of your site, e.g. /blog
 github_username:  zmalexander
 
 # jekyll-paginate configuration
@@ -34,7 +34,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: ["_pages"]
-permalink: /ShootYourFriendsWebsite/posts/:title/
+permalink: /posts/:title/
 excerpt_separator: <!--more-->
 author: https://www.linkedin.com/in/zach-mackay-b78b89170/
 
