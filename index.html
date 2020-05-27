@@ -41,7 +41,7 @@ comments: true
 			src="/ShootYourFriendsWebsite/assets/images/{{post.id}}/top.jpg" class="img-responsive">
 		{% endif %}
 		<p>{{ post.excerpt | strip_html}}</p>
-		<a href="/ShootYourFriendsWebsite/{{ post.url }}">Read more...</a>
+		<a href="/ShootYourFriendsWebsite{{ post.url }}">Read more...</a>
 
 	</div>
 	{% endfor %}
