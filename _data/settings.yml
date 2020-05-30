@@ -8,19 +8,13 @@ google-ID: ''
 
 #Changes here effect the header menu only
 menu: 
-  - name: Featured Projects
-    submenu:
-      - name: MicroBam
-        link: /ShootYourFriendsWebsite/projects/microbam
-      - name: OurLegacy
-        link: /ShootYourFriendsWebsite/projects/ourlegacy
   - name: Posts
     link: /ShootYourFriendsWebsite/
   - name: Tags
     link: /ShootYourFriendsWebsite/tags
   - name: About
     link: /ShootYourFriendsWebsite/about
-  - name: Follow me
+  - name: Follow us
     submenu:
       - name: GitHub
         icon: github
@@ -28,7 +22,7 @@ menu:
       - name: LinkedIn
         icon: linkedin-square
         link: inkedin.com/in/zach-mackay-b78b89170/
-      - name: Twitter
-        icon: twitter
-        link: https://google.com
+      - name: Facebook
+        icon: facebook
+        link: https://facebook.com
     

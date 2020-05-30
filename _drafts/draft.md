@@ -9,7 +9,7 @@ tags: [test,test2]
 github: "https://github.com/alainpham/"
 noimage: true
 ---
-Hello This is a good one.
+Hello This is a good one. To see it in action, copy this file to the _posts folder.
 <!--more-->
 
 ## Test Title 1
