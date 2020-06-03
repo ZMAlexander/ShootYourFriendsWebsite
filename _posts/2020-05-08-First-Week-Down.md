@@ -39,7 +39,7 @@ Hey I'm Zach, and I'm the developer working mainly on the UI portion of Shoot Yo
 ## Pregame Lobby
 Arguably, one of the first things a player will do when they start the game is try to start the game. We think this is a fair and justified response, and take our players to the pregame lobby. This is a screen that's probably familiar to you, where each player pushes a button on their gamepad to enter the game.
 
-![The pregame lobby in action](lobby5.gif)
+<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images/{{page.id}}/lobby5.gif" alt="Image description here"/>
 
 This screen has a surprising amount of complexity to it. Each player is going to use a different gamepad. They might decide to back out after they've started so they can change their avatar's skin. Controllers might get swapped out when your host gives you a knock-off controller. Fortunately, our engine (Unity - for anybody curious) has a new component that helps us keep track of which players belong to which controllers. Unfortunately, it's a very new component, and the documentation for it leaves us a few blanks to fill in.
 
