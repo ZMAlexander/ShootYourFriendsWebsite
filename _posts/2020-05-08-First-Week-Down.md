@@ -41,6 +41,8 @@ If you want to know more about me, check out my website and portfolio here - <a 
 ### Sara Ring
 
 ### Gerry Vautour
+Hi there. I'm Gerry, another developer on Shoot Your Friends. I dropped out of a programming course in college, missed it, and when these guys suggested we make a game together, I immediately jumped on board. I've played games my whole 30-some years of life, and have always wanted to spend my time making games but had no clue where or how to start.  Now I have some knowledge, and a group to help keep me on track.
+I'm not the social type, so you likely won't hear much from me on a regular basis. I'll just be working in the background to make the best games I can, and hopefully someone out there will like them.
 
 ## Pregame Lobby
 Arguably, one of the first things a player will do when they start the game is try to start the game. We think this is a fair and justified response, and take our players to the pregame lobby. This is a screen that's probably familiar to you, where each player pushes a button on their gamepad to enter the game.
