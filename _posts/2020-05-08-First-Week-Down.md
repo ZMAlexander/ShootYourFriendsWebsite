@@ -34,7 +34,9 @@ Hey I'm Zach, and I'm the developer working on the UI portion of Shoot Your Frie
 
 I have wildly varied interests, from playing video games, roleplaying games, website development, programming, photography, hiking, exploring cities, business PR, online sales, investments, real estate, working out, yoga, minimalism, travelling the world, psychology, gardening, scuba diving, skydiving, and an ambition that keeps me constantly learning new things. I am the person who will try anything at least once!
 
-I put together the blog for Shoot Your Friends with efficiency in mind, and I am successful! The blog is low cost (free) & low maintenance once set up, and posting is just as easy as using WordPress - while there's always improvements to be made, I'm happy the progress made so far.
+I put together the blog for Shoot Your Friends with efficiency in mind, and I am successful! The blog is low cost (free) & low maintenance once set up, and posting is just as easy as using WordPress. While there's always improvements to be made to the blog, I'm happy with the progress made so far.
+
+If you want to know more about me, check out my website and portfolio here - <a href="www.zachmackay.com">zachmackay.com</a>.
 
 ### Sara Ring
 
