@@ -30,7 +30,11 @@ Hi, my name is Peter and I'm the lead developer for Shoot Your Friends. I have t
 Apart from video games, I'm also into board games and roleplaying games. I've been a Game Master for tabletop games for about ten years now. On the Dungeons & Dragons / Pathfinder divide I usually responded with "either," or "both," but I've also dabbled in other games like Apocalypse World or Ironsworn. My all time favorite board game is Betrayal at House on the Hill, and that's probably in large part due to my love for cheesey movies. 
 
 ### Zach Mackay
-Hey I'm Zach, and I'm the developer working mainly on the UI portion of Shoot Your Friends while also helping out where I can. I put together this blog with the idea that I wanted a low cost & low maintenance blog once it's set up, and it is successful! I've always dreamed of 
+Hey I'm Zach, and I'm the developer working on the UI portion of Shoot Your Friends while also helping out where I can. I have two years of programming & development experience, with five years of business & public relations experience. 
+
+I have wildly varied interests, from playing video games, roleplaying games, website development, programming, business PR, online sales, investments, real estate, working out, yoga, minimalism, travelling the world, psychology, gardening, scuba diving, skydiving, and an ambition that keeps my constantly learning new things. I am the person who will try anything at least once!
+
+I put together the blog for Shoot Your Friends with efficiency in mind, and I am successful! The blog is low cost (free) & low maintenance once set up, and posting is just as easy as using WordPress - while there's always improvements to be made, I'm happy with how it is now. 
 
 ### Sara Ring
 
