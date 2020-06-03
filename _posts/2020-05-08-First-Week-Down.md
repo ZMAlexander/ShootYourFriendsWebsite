@@ -32,9 +32,9 @@ Apart from video games, I'm also into board games and roleplaying games. I've be
 ### Zach Mackay
 Hey I'm Zach, and I'm the developer working on the UI portion of Shoot Your Friends while also helping out where I can. I have two years of programming & development experience, with five years of business & public relations experience. 
 
-I have wildly varied interests, from playing video games, roleplaying games, website development, programming, business PR, online sales, investments, real estate, working out, yoga, minimalism, travelling the world, psychology, gardening, scuba diving, skydiving, and an ambition that keeps my constantly learning new things. I am the person who will try anything at least once!
+I have wildly varied interests, from playing video games, roleplaying games, website development, programming, photography, hiking, exploring cities, business PR, online sales, investments, real estate, working out, yoga, minimalism, travelling the world, psychology, gardening, scuba diving, skydiving, and an ambition that keeps me constantly learning new things. I am the person who will try anything at least once!
 
-I put together the blog for Shoot Your Friends with efficiency in mind, and I am successful! The blog is low cost (free) & low maintenance once set up, and posting is just as easy as using WordPress - while there's always improvements to be made, I'm happy with how it is now. 
+I put together the blog for Shoot Your Friends with efficiency in mind, and I am successful! The blog is low cost (free) & low maintenance once set up, and posting is just as easy as using WordPress - while there's always improvements to be made, I'm happy the progress made so far.
 
 ### Sara Ring
 
