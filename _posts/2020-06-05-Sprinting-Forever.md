@@ -17,7 +17,7 @@ that doesn't make for very compelling reading. That doesn't mean we've been rest
 ## A Blank Slate
 If you're familiar with the Agile development workflow, then you might nerd out with me for a minute. When we put together our first build we had cleared out our board.
 
-<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images/{{page.id}}/backlog.jpg" alt="A screenshot of our sprint board"/>
+<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images{{page.id}}/backlog.jpg" alt="A screenshot of our sprint board"/>
 
 We've been using Trello to manage our sprint board. If you're not familiar with the process, essentially we schedule our development into manageable periods called "Sprints" and put any tasks we expect to work on into a "Backlog." Our last sprint cleaned out our backlog, which meant that every feature we had expected to include in an initial release of Shoot your Friends was finished!
 
