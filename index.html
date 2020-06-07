@@ -27,7 +27,7 @@ comments: true
 <div class="list-group">
 	{% for post in paginator.posts %} 
 	<div class="list-group-item">
-	<a href="{{ post.url }}">
+	<a href="/ShootYourFriendsWebsite{{ post.url }}">
 		<h4 class="list-group-item-heading">{{ post.title }}</h4>
 		<h6 class="list-group-item-heading">{{ post.published | date: '%B %d,
 			%Y' }} | (Last Update : {{ post.date | date: '%B %d, %Y' }})</h6></a>
