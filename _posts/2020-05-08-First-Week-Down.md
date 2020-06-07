@@ -10,7 +10,7 @@ github: "https://github.com/zmalexander/"
 noimage: true
 ---
 
-# May 8, 2020
+# First Week Down
 Hey friends, welcome to the Shoot Your Friends development diary!
 <!--more-->
 All too often we've been burned by video games where the developers do not make an effort to engage with the community and let us know what's going on. Can we expect new features soon? Is the game in development hell? Have they seen my fanart? These are all questions that we'd never get answered from uncommunicative developers - and that's something that we at Shoot Your Friends never want to be.
