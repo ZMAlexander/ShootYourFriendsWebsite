@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Getting Juicy"
-date: 2020-06-012 05:00:00 +0200
-published: 2020-06-012 05:00:00 +0200
+date: 2020-06-12 05:00:00 +0200
+published: 2020-06-12 05:00:00 +0200
 comments: true
 categories: development
 tags: [gamedev,multiplayer,shootyourfriends,juice]
