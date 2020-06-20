@@ -15,7 +15,7 @@ Hello friends! This week we've been making some continuous improvements to the g
 <!--more-->
 
 # Sounds
-This is going to be hard to write about with simply being able to show it to you, but we've added the ability to play music in our game. We haven't landed on a final track list yet, but it's good to have something to rock out to while you're shooting your friends.
+This is going to be hard to write about without simply being able to show it to you, but we've added the ability to play music in our game. We haven't landed on a final track list yet, but it's good to have something to rock out to while you're shooting your friends.
 
 Additionally, we've added a number of sound effects to the game. Our menus have a more complete look and feel, and will now "chirp" as you select different buttons. We've also played with our bullet sound effects and fixed an issue where your gun would suddenly cease making noise when a bullet struck an object. It could be jarring.
 
