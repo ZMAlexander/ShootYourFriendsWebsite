@@ -10,7 +10,9 @@ github: "https://github.com/zmalexander/"
 noimage: true
 ---
 # Announcing Fancy Pigeon Studios
-Hello, friends! It's been a while since our last update, and we've been cooking up something very special in the meantime. Us folks working on Shoot Your Friends are nearing a release candidate, which means we've been getting our ducks in a row to start submitting the game to various stores. One of the common requirements amongst platforms is that we need to be operating as an official business, so we've been speaking with lawyers and accountants and such. The end result is that we're now incorporated as Fancy Pigeon Studios Ltd.
+Hello, friends! It's been a while since our last update, and we've been cooking up something very special in the meantime. 
+<!--more-->
+Us folks working on Shoot Your Friends are nearing a release candidate, which means we've been getting our ducks in a row to start submitting the game to various stores. One of the common requirements amongst platforms is that we need to be operating as an official business, so we've been speaking with lawyers and accountants and such. The end result is that we're now incorporated as Fancy Pigeon Studios Ltd.
 
 On a personal note, this is a huge milestone for me. I've always wanted to run a studio in the video game industry, and now I have the paperwork to prove I've advanced from hobbyist to professional. I really couldn't be happier!
 
