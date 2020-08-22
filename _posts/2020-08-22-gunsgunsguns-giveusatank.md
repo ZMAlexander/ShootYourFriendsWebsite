@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "gunsgunsguns And giveusatank"
-date: 2020-07-18 05:00:00 +0200
-published: 2020-07-18 05:00:00 +0200
+date: 2020-08-22 05:00:00 +0200
+published: 2020-08-22 05:00:00 +0200
 comments: true
 categories: development
-tags: [gamedev,multiplayer,shootyourfriends,bugs,UI,gameplay]
+tags: [gamedev,multiplayer,shootyourfriends,bugs,guns,skins]
 github: "https://github.com/zmalexander/"
 noimage: true
 ---
