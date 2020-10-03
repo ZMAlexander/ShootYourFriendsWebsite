@@ -14,7 +14,7 @@ Hello friends! I'm afraid it's not a terrifically exciting update for you all th
 <!--more-->
 Mostly this boiled down to us reading a bunch of licenses for our assets and making sure we were allowed to use them in the ways we intended. That's a pretty important step before you start trying to share your game, so we recognize its importance. Still, we're pretty happy we already did the other half of our legal crap (starting a corporation) ahead of time or else this week would have really sucked.
 
-# Changes
+## Changes
 * The splash screen now displays "Fancy Pigeon Studios presents." This is a bit more descriptive than the blank screen it previously was.
 * The credits page has been significantly updated. It now shows what each of our team members worked on, as well as including both a Special Thanks section as well as extra attribution required for some of our assets.
 * Adjusted the size of the UI to make it consistent across multiple display types.

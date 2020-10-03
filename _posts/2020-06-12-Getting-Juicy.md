@@ -41,7 +41,7 @@ In response to our art director's feedback, we've updated our user interface. We
 
 <img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images/{{page.id}}/title-screen-before-after.png" alt="The title screen before and after visual improvements"/>
 
-# Taking Care of Business
+## Taking Care of Business
 This past week we've been talking with lawyers, accountants, and people who are generally more grown up than we are. The result of these meetings is that it won't be too much longer before we have a bona fide business
 
 All of this means that we're one step closer to being able to release. I don't want to talk about a release date yet though. We've seen the game requires some more polish anyway, and we still haven't really looked at marketing or anything like that ahead of the release cycle. But the needle's shifted from "maybe" to "sometime," and that's cause for excitement!
