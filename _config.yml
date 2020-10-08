@@ -36,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: https://github.com/ZMAlexander
+author: https://fancypigeonstudios.com
 
 host: 0.0.0.0
 
