@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shoot Your Friends Blog
-name: Shoot Your Friends Blog
+name: Blog
 description: 
-  This is our game blog
+  This is our game blog for Shoot Your Friends
 baseurl: "/ShootYourFriendsWebsite" # the subpath of your site, e.g. /blog
 github_username:  zmalexander
 
@@ -36,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: https://www.linkedin.com/in/zach-mackay-b78b89170/
+author: https://github.com/ZMAlexander
 
 host: 0.0.0.0
 
