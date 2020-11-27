@@ -9,11 +9,11 @@ google-ID: ''
 #Changes here effect the header menu only
 menu: 
   - name: Posts
-    link: /ShootYourFriendsWebsite/
+    link: /
   - name: Tags
-    link: /ShootYourFriendsWebsite/tags
+    link: /tags
   - name: About
-    link: /ShootYourFriendsWebsite/about
+    link: /about
   - name: Follow us
     submenu:
       - name: GitHub
@@ -24,5 +24,5 @@ menu:
         link: https://linkedin.com/in/zach-mackay-b78b89170/
       - name: Facebook
         icon: facebook
-        link: https://facebook.com
+        link: https://www.facebook.com/Shoot-Your-Friends-113904090375516
     
