@@ -34,7 +34,7 @@ This is basically exactly what it says on the tin. Timed Deathmatch follows the 
 
 Adding this twist in made this the most architecturally challenging mode to date. None of our other game modes care about the passage of time, so we had to figure out how to set up a clock and keep it communicating between different components. Unity does most of the heavy lifting for us in order to keep track of time between frames, but we were surprised that there wasn't an out-of-the-box solution for making a timer or clock.
 
-<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images{{page.id}}/timer.png" alt="This may be the simplest clock in video games"/>
+<img class="center-block img-responsive" src="/blog/assets/images{{page.id}}/timer.png" alt="This may be the simplest clock in video games"/>
 
 In the end, we figured it out. It turned out making the clock and keeping time is a relatively simple problem. Or at least it is with the level of help our engine gives us.
 
