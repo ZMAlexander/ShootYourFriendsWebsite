@@ -36,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: https://fancypigeonstudios.com
+author: https://blog.fancypigeonstudios.com
 
 host: 0.0.0.0
 
