@@ -24,7 +24,7 @@ We added a new game mode which we're currently calling Juggernaut. The rules of 
 
 One of the requirements to have a mode of play like this is that it must be immediately apparent to the players who the Juggernaut is. We achieved this effect by showing the affected player to be crackling with electricity. It also makes a pretty nifty trail behind the player as they run.
 
-<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images{{page.id}}/juggernaut.gif" alt="Our special juggernaut animation in action"/>
+<img class="center-block img-responsive" src="/assets/images{{page.id}}/juggernaut.gif" alt="Our special juggernaut animation in action"/>
 
 There's a couple of issues with this implementation, but we're happy with it for now. Something that is on our radar is that there are some optimization concerns with this effect. I consider my development machine to be a pretty beefy gaming rig, but it ran into some stuttering when calculating lightning bolts. We played with it until that frame loss disappeared, but we recognize that this might be an issue on different hardware.
 

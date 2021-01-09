@@ -17,7 +17,7 @@ title: Shoot Your Friends Blog
 name: Blog
 description: 
   This is our game blog for Shoot Your Friends
-baseurl: "/ShootYourFriendsWebsite" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  zmalexander
 
 # jekyll-paginate configuration
@@ -36,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: https://fancypigeonstudios.com
+author: https://blog.fancypigeonstudios.com
 
 host: 0.0.0.0
 
