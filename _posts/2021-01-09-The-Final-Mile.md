@@ -28,11 +28,11 @@ Rest assured, we did confirm from multiple hosts that they're able to play the g
 ## Background Crawl
 Essentially from the start of development we've decided we wanted to have this outrun aesthetic, partly because we just missed the '80s and partly because it's this great mashup of lights and colours. So when we started, it was with a static background.
 
-<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images{{page.id}}/TitleBack.png" alt="Our original background image"/>
+<img class="center-block img-responsive" src="/assets/images{{page.id}}/TitleBack.png" alt="Our original background image"/>
 
 Well that's all well and good, but we can do better. At least, that's what Sara set out to do when she whipped up our new background. There was goint to be a city on the horizon, a city of excitement, possibility, and the shooting of friends. But that city was beyond the horizon, off in the distance, and nobody got anywhere staying where they started.
 
-<img class="center-block img-responsive" src="/ShootYourFriendsWebsite/assets/images{{page.id}}/SyF_Background.gif" alt="A massively improved dynamic background"/>
+<img class="center-block img-responsive" src="/assets/images{{page.id}}/SyF_Background.gif" alt="A massively improved dynamic background"/>
 
 So now we're zooming along the landscape, paying no heed to the darkness surrounding us. For we are heading for the city, for light, for possibility, and foremost: for deathmatch.
 
