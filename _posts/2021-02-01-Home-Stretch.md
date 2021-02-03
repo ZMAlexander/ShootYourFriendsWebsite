@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Home Stretch"
-date: 2021-02-21 05:00:00 +0200
-published: 2021-02-21 05:00:00 +0200
+date: 2021-02-01 05:00:00 +0200
+published: 2021-02-01 05:00:00 +0200
 comments: true
 categories: development
 tags: [gamedev,multiplayer,shootyourfriends,juice,release]
