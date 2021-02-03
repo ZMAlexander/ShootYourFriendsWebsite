@@ -23,7 +23,7 @@ This was something that we were very excited to implement. Especially given the 
 
 So there's always a catch, right? Well, in most cases, this is just a plug-and-play setting that you set up, turn on, and away you go. But unfortunately that's not always the case. Without getting too bogged down in the technical details, we designed our player controllers a certain way, and I guess Steam expects them in another format. So the gist is that we got this feature working, but with some warts. There's a couple of bugs in here that we worked really hard to address, but they might be beyond us in a technical sense. 
 
-Rest assured, we did confirm from multiple hosts that they're able to play the game. Before release, we're going to put together a tutorial demoing what that bug is exactly and how to get around it. We don't think it will greatly affect the player experience. But the flip side is that
+Rest assured, we did confirm from multiple hosts that they're able to play the game. Before release, we're going to put together a tutorial demoing what that bug is exactly and how to get around it. We don't think it will greatly affect the player experience, but we figured we ought to let you know in case you're making the purchase solely on the merit of Remote Play functionality.
 
 ## Background Crawl
 Essentially from the start of development we've decided we wanted to have this outrun aesthetic, partly because we just missed the '80s and partly because it's this great mashup of lights and colours. So when we started, it was with a static background.
