@@ -19,6 +19,10 @@ h1, h2, h3, h4, a, b, strong {
 	color: #E71898;
 }
 
+.list-group-item {
+	background-color: #202020;
+}
+
 a.label.label-default, a.btn.btn-default, a.btn.btn-default:focus, a.btn.btn-default::selection {
 	background-color: #303030;
 	color: white;
